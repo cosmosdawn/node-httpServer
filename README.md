@@ -50,4 +50,6 @@ server2.js文件是实际动手将本地C盘目录下写好的一个demo资源�
 
 #### 以下是服务器运行监听到请求后的控制台输出以及浏览器成功请求到页面的效果
 
-![Alt text]('./img/console.PNG')
+![Alt text](./img/console.PNG)
+![Alt text](./img/broser.PNG)
+![Alt text](./img/resource.PNG)
